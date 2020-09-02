@@ -1,6 +1,6 @@
 export const environment = {
-  botOwnerId: '218459216145285121',
-  discordInvite: 'https://discord.gg/24tycau',
+  botOwnerId: '608439707222933556',
+  discordInvite: 'https://discord.gg/5GAdgjb',
   endpoint: '/api',
   githubURL: 'https://github.com/theADAMJR/2PG-Dashboard',
   production: true,
